@@ -1,5 +1,5 @@
 # anime js
-![](01.png)
+(01.png)
 
 [anime js](https://www.animejs.cn/)
 
