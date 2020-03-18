@@ -3,7 +3,7 @@
 
 Anime.js 是一個輕量JavaScript動畫庫， 擁有簡單而強大的API。 可對 CSS 屬性、 SVG、 DOM 和JavaScript 對象進行動畫。
 
-## 範例
+### 範例
 
 [Moving letters](https://tobiasahlin.com/moving-letters/)
 
@@ -20,6 +20,6 @@ Anime.js 是一個輕量JavaScript動畫庫， 擁有簡單而強大的API。 �
 
 分享前端視覺設計效果的網站，提供source，佛心來著。
 
-## 範例
+### 範例
 
 [Smooth Scrolling Image Effects](https://tympanus.net/Development/SmoothScrollingImageEffects/)
