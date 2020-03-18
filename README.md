@@ -1,4 +1,6 @@
 # anime js
+![](01.png)
+
 [anime js](https://www.animejs.cn/)
 
 Anime.js 是一個輕量JavaScript動畫庫， 擁有簡單而強大的API。 可對 CSS 屬性、 SVG、 DOM 和JavaScript 對象進行動畫。
