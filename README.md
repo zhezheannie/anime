@@ -19,7 +19,10 @@ Anime.js 是一個輕量JavaScript動畫庫， 擁有簡單而強大的API。 �
 [codrops](https://tympanus.net/codrops/)
 
 分享前端視覺設計效果的網站，提供source，佛心來著。
+Playground單元提供許多資源、Articles單元則是整理推薦的各種網站等等。
 
 ### 範例
 
 [Smooth Scrolling Image Effects](https://tympanus.net/Development/SmoothScrollingImageEffects/)
+
+[Grid Reveal Effects](https://tympanus.net/Development/GridRevealEffects/)
