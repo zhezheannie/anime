@@ -27,6 +27,8 @@ Anime.js 是一個輕量JavaScript動畫庫， 擁有簡單而強大的API。 �
 Playground單元提供許多資源、Articles單元則是整理推薦的各種網站等等。
 
 ### 範例
+[Create a Wave Motion Effect on an Image with Three.js](https://tympanus.net/codrops/2020/03/17/create-a-wave-motion-effect-on-an-image-with-three-js/)
+
 ![](05.png)
 [Smooth Scrolling Image Effects](https://tympanus.net/Development/SmoothScrollingImageEffects/)
 
